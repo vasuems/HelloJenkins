@@ -15,7 +15,7 @@
 </head>
 <body>
 <f:view>
-Hello Jenkins
+Hello Jenkins. Committing to Github.
 </f:view>
 </body>
 </html>
